@@ -3,14 +3,6 @@
 //                  and calls the functions from shapes.cpp via shapes.h for calculations
 //  Author:         Thomas Sotherland
 //  Course:         CS 3350, Spring 2025
-//  Reflection:     I really enjoyed getting to review alot of the concepts covered in CS 2010 & 2020 when making this program.
-//                  I initially had a bit of difficulty getting used to the class structure and what data types to set to public/private.
-//                  I also really struggled to understand the quadrilateral formula at first as I haven't taken geometry in a good few years.
-//                  A few things I could've done differently are the class declarations for the various shapes as I had them inherit from
-//                  newer classes rather than just pulling from polygon and overriding. I also really should've started this program earlier
-//                  in the week as it ended up being quite a bit more difficult and had new error codes I hadn't run into before. Namely
-//                  issues with class inheritance and formulas calculating out very strangely.
-//
 
 #include <iostream>
 #include <iomanip>
