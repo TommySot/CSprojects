@@ -1,7 +1,7 @@
 $sessionOptions = New-PSSessionOption -IncludePortInSPN
 # Redacted OU's and domain name
 $OU = "OU=xxx,OU=xxx,OU=xxx,DC=xxx,DC=xxx,DC=xxx"
-$domainSuffix = "xxxxxxx.com"
+$domainSuffix = "xxxxxxx"
 
 # Script block to run on each remote server
 $sb = {
